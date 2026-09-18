@@ -1,5 +1,5 @@
 {
-  // OPERATION MOONLIGHT — настройки редактора. Работает в VSCode и Cursor.
+  // OPERATION MOONLIGHT — настройки для VS Code-совместимых редакторов.
 
   // === C ===
   // Курс собирается с -std=gnu11: вызовы POSIX видны без ручных макросов.
@@ -77,7 +77,7 @@
   "files.associations": {
     "*.c": "c",
     "*.h": "c",
-    ".cursorrules": "plaintext",
+    "AGENTS.md": "markdown",
     "Makefile": "makefile"
   }
 }
